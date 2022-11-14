@@ -4,4 +4,4 @@ numpy
 matplotlib
 seaborn
 nltk
-nltk.downloader popular
+
